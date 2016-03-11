@@ -9,6 +9,8 @@
     <body>
         <div id="map"></div>
         <script src="js/leaflet.js"></script>
+        <script src="js/jquery-2.2.1.min.js"></script>
+        <script src="js/jquery.csv.min.js"></script>
         <script>
             (function() {
                 var map = L.map("map", {
@@ -23,6 +25,11 @@
                 });
 
                 MapQuestOpen_OSM.addTo(map);
+
+                $.get('data/in-service-capacity-over-1000-mw.csv', function(csv_contents) {
+                    var plants = $.csv.toArrays(csv_contents);
+                    console.log(plants);
+                });
             })();
         </script>
     </body>
