@@ -24,11 +24,25 @@
                     subdomains: '1234'
                 });
 
+                var icon = L.icon({
+                    iconUrl: "img/radioactive.png",
+
+                    iconSize: [64, 64], // size of the icon
+                    iconAnchor: [32, 32], // point of the icon which will correspond to marker's location
+                });
+
                 MapQuestOpen_OSM.addTo(map);
 
                 $.get('data/in-service-capacity-over-1000-mw.csv', function(csv_contents) {
                     var plants = $.csv.toArrays(csv_contents);
-                    console.log(plants);
+
+                    for (var i = 1; i < plants.length; i++) {
+                        var latLng = plants[i][4].split(" / ")[2].split(" (")[0].split("; ");
+            			var marker = new L.marker(latLng, {
+                            icon: icon
+                        }).bindPopup(plants[i][0])
+            			.addTo(map);
+            		}
                 });
             })();
         </script>
