@@ -40,7 +40,15 @@
                         var latLng = plants[i][1].split(",");
             			var marker = new L.marker(latLng, {
                             icon: icon
-                        }).bindPopup(plants[i][0])
+                        }).bindPopup("<div>Facility: " + plants[i][0] + "</div>" +
+                                     "<div>Location: " + plants[i][1] + "</div>" +
+                                     "<div>Process: " + plants[i][2] + "</div>" +
+                                     "<div>Capacity MWe net: " + plants[i][3] + "</div>" +
+                                     "<div>Current status: " + plants[i][4] + "</div>" +
+                                     "<div>Start year: " + plants[i][5] + "</div>" +
+                                     "<div>Owner: " + plants[i][6] + "</div>" +
+                                     "<div>Country: " + plants[i][7] + "</div>" +
+                                     "<div>ISO country code: " + plants[i][7] + "</div>")
             			.addTo(map);
             		}
                 });
