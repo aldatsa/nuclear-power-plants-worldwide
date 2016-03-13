@@ -39,7 +39,7 @@
                     var plants = $.csv.toArrays(csv_contents);
                     console.log(plants);
                     for (var i = 0; i < plants.length; i++) {
-                        var latLng = [plants[i][17], plants[i][18]];
+                        var latLng = [plants[i][15], plants[i][16]];
             			var marker = new L.marker(latLng, {
                             icon: icon
                         }).bindPopup("<div>Facility: " + plants[i][0] + "</div>" +
