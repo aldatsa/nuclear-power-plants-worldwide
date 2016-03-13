@@ -55,14 +55,14 @@ fs.writeFile(csv_file_path, "", function() {
                     element._source.reactor.owner.forEach(function(element2, index2, array2) {
 
                         if (element2.share) {
-                            owners_share += element2.share.replace("\r\n", " ").replace("\r", " ").replace(",", " -");
+                            owners_share += element2.share.replace("\r\n", " ").replace("\r", " ").replace(/,/g, " -").replace(/"/g, "'");
                             if (index2 < array2.length - 1) {
                                 owners_share += " - ";
                             }
                         }
 
                         if (element2.name) {
-                            owners_name += element2.name.replace("\r\n", " ").replace("\r", " ").replace(",", " -").replace(/"/g, "'");
+                            owners_name += element2.name.replace("\r\n", " ").replace("\r", " ").replace(/,/g, " -").replace(/"/g, "'");
                             if (index2 < array2.length - 1) {
                                 owners_name += " - ";
                             }
