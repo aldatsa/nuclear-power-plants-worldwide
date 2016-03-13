@@ -9,9 +9,9 @@ fs.writeFile(csv_file_path, "", function() {
 
         var file_path = path.join(__dirname, "../data/reactors-" + i + ".json");
 
-        var csv_file_contents = "";
-
         fs.readFile(file_path, {encoding: 'utf-8'}, function(err, data) {
+
+            var csv_file_contents = "";
 
             if (!err) {
 
@@ -55,14 +55,14 @@ fs.writeFile(csv_file_path, "", function() {
                     element._source.reactor.owner.forEach(function(element2, index2, array2) {
 
                         if (element2.share) {
-                            owners_share += element2.share;
+                            owners_share += element2.share.replace("\r\n", " ").replace("\r", " ").replace(",", " -");
                             if (index2 < array2.length - 1) {
                                 owners_share += " - ";
                             }
                         }
 
                         if (element2.name) {
-                            owners_name += element2.name;
+                            owners_name += element2.name.replace("\r\n", " ").replace("\r", " ").replace(",", " -");
                             if (index2 < array2.length - 1) {
                                 owners_name += " - ";
                             }
@@ -82,7 +82,7 @@ fs.writeFile(csv_file_path, "", function() {
                         csv_file_contents += ",";
                     }
                     csv_file_contents += element._source.reactor.country + ",";
-                    csv_file_contents += element._source.reactor.operator + ",";
+                    csv_file_contents += element._source.reactor.operator.replace("\r\n", " ").replace("\r", " ").replace(",", " -") + ",";
 
                     if (element._source.reactor.commercial_operation) {
                         csv_file_contents += element._source.reactor.commercial_operation + ",";
@@ -95,7 +95,7 @@ fs.writeFile(csv_file_path, "", function() {
                     } else {
                         csv_file_contents += ",";
                     }
-                    csv_file_contents += element._source.reactor.operator + ",";
+                    csv_file_contents += element._source.reactor.operator.replace("\r\n", " ").replace("\r", " ").replace(",", " -") + ",";
                     csv_file_contents += element._source.reactor.thermal_capacity + ",";
 
                     if (element._source.reactor.additional_info) {
@@ -107,6 +107,7 @@ fs.writeFile(csv_file_path, "", function() {
                     csv_file_contents += element._source.reactor.design_net_capacity + ",";
                     csv_file_contents += element._source.reactor.name + ",";
                     csv_file_contents += "\n";
+
                 });
 
             } else {
@@ -115,6 +116,7 @@ fs.writeFile(csv_file_path, "", function() {
 
             }
 
+            console.log(csv_file_contents.length);
             fs.appendFile(csv_file_path, csv_file_contents, function (err) {
 
                 if (err) {
