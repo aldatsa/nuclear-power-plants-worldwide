@@ -1,0 +1,2776 @@
+{
+    "hits": {
+        "hits": [{
+            "sort": [1954],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "APS-1 OBNINSK",
+                "index": {
+                    "permanent_shutdown_year": 2002,
+                    "construction_start_year": 1951,
+                    "first_grid_connection_year": 1954,
+                    "sort_name": "aps 1 obninsk"
+                },
+                "last_updated": "2016-03-07T15:25:49Z",
+                "reactor": {
+                    "status": "Permanent Shutdown",
+                    "permanent_shutdown": "2002-04-29",
+                    "alternate_name": "(Atomic Power Station 1 Obninsk)",
+                    "first_grid_connection": "1954-06-27",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=Russia",
+                        "text": "WNN articles on Russia",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://www.world-nuclear.org/info/Country-Profiles/Countries-O-S/Russia/",
+                        "text": "Nuclear Power in Russia",
+                        "type": "wna"
+                    }],
+                    "first_criticality": "1954-05-06",
+                    "process": "LWGR",
+                    "gross_capacity": 6.0,
+                    "construction_start": "1951-01-01",
+                    "owner": [{
+                        "share": "Minsredmash",
+                        "name": "Ministry Of Medium Machine Building Of The Ussr"
+                    }],
+                    "reference_unit_power_capacity_net": 5.0,
+                    "location": {
+                        "lat": 55.0839,
+                        "lon": 36.5704
+                    },
+                    "country": "Russia",
+                    "operator": "Ministry Of Medium Machine Building Of The Ussr (Minsredmash)",
+                    "commercial_operation": "1954-12-01",
+                    "model": "AM-1",
+                    "thermal_capacity": 30.0,
+                    "additional_info": "Also known as Atomic Power Station 1 Obninsk",
+                    "design_net_capacity": 5.0,
+                    "name": "Aps 1 Obninsk"
+                },
+                "created_date": "2016-03-07T15:25:49Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "APS-1 OBNINSK"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "CAREM25",
+                "index": {
+                    "construction_start_year": 2014,
+                    "sort_name": "carem25"
+                },
+                "last_updated": "2016-03-07T15:25:58Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 25.0,
+                    "name": "Carem25",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=Argentina",
+                        "text": "WNN articles on Argentina",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://world-nuclear.org/info/Country-Profiles/Countries-A-F/Argentina/",
+                        "text": "Nuclear Power in Argentina",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 29.0,
+                    "construction_start": "2014-02-08",
+                    "owner": [{
+                        "name": "Comision Nacional De Energia Atomica"
+                    }],
+                    "country": "Argentina",
+                    "operator": "Comision Nacional De Energia Atomica",
+                    "model": "CAREM Prototype (Integrated-PWR)",
+                    "thermal_capacity": 100.0,
+                    "design_net_capacity": 25.0
+                },
+                "created_date": "2016-03-07T15:25:58Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "CAREM25"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "KAKRAPAR-3",
+                "index": {
+                    "construction_start_year": 2010,
+                    "sort_name": "kakrapar 3"
+                },
+                "last_updated": "2016-03-07T15:26:17Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 630.0,
+                    "name": "Kakrapar 3",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=India",
+                        "text": "WNN articles on India",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://world-nuclear.org/info/Country-Profiles/Countries-G-N/India/",
+                        "text": "Nuclear Power in India",
+                        "type": "wna"
+                    }],
+                    "process": "PHWR",
+                    "gross_capacity": 700.0,
+                    "construction_start": "2010-11-22",
+                    "owner": [{
+                        "name": "Nuclear Power Corporation Of India Ltd"
+                    }],
+                    "location": {
+                        "lat": 21.2352,
+                        "lon": 73.3507
+                    },
+                    "country": "India",
+                    "operator": "Nuclear Power Corporation Of India Ltd",
+                    "model": "PHWR-700",
+                    "thermal_capacity": 2166.0,
+                    "design_net_capacity": 630.0
+                },
+                "created_date": "2016-03-07T15:26:17Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "KAKRAPAR-3"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "MOCHOVCE-4",
+                "index": {
+                    "construction_start_year": 1987,
+                    "sort_name": "mochovce 4"
+                },
+                "last_updated": "2016-03-07T15:26:23Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 440.0,
+                    "name": "Mochovce 4",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=Slovakia",
+                        "text": "WNN articles on Slovakia",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://www.world-nuclear.org/info/Country-Profiles/Countries-O-S/Slovakia/",
+                        "text": "Nuclear Power in Slovakia",
+                        "type": "wna"
+                    }],
+                    "construction_restart": "2009-06-11",
+                    "process": "PWR",
+                    "gross_capacity": 471.0,
+                    "construction_start": "1987-01-27",
+                    "owner": [{
+                        "name": "Slovensk\u00e9 Elektr\u00e1rne, A.S."
+                    }],
+                    "location": {
+                        "lat": 48.2594,
+                        "lon": 18.4547
+                    },
+                    "country": "Slovakia",
+                    "operator": "Slovensk\u00e9 Elektr\u00e1rne, A.S.",
+                    "construction_suspend": "1993-03-05",
+                    "thermal_capacity": 1375.0,
+                    "model": "VVER V-213",
+                    "design_net_capacity": 440.0
+                },
+                "created_date": "2016-03-07T15:26:23Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "MOCHOVCE-4"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "NOVOVORONEZH 2-1",
+                "index": {
+                    "construction_start_year": 2008,
+                    "sort_name": "novovoronezh 2 1"
+                },
+                "last_updated": "2016-03-07T15:26:24Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1114.0,
+                    "name": "Novovoronezh 2 1",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=Russia",
+                        "text": "WNN articles on Russia",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://www.world-nuclear.org/info/Country-Profiles/Countries-O-S/Russia/",
+                        "text": "Nuclear Power in Russia",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 1199.0,
+                    "construction_start": "2008-06-24",
+                    "owner": [{
+                        "name": "Joint Stock Company 'Concern Rosenergoatom'"
+                    }],
+                    "location": {
+                        "lat": 51.2732,
+                        "lon": 39.1966
+                    },
+                    "country": "Russia",
+                    "operator": "Joint Stock Company 'Concern Rosenergoatom'",
+                    "model": "VVER V-392M",
+                    "thermal_capacity": 3200.0,
+                    "design_net_capacity": 1114.0
+                },
+                "created_date": "2016-03-07T15:26:24Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "NOVOVORONEZH 2-1"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "LENINGRAD 2-1",
+                "index": {
+                    "construction_start_year": 2008,
+                    "sort_name": "leningrad 2 1"
+                },
+                "last_updated": "2016-03-07T15:26:21Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1085.0,
+                    "name": "Leningrad 2 1",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=Russia",
+                        "text": "WNN articles on Russia",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://www.world-nuclear.org/info/Country-Profiles/Countries-O-S/Russia/",
+                        "text": "Nuclear Power in Russia",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 1170.0,
+                    "construction_start": "2008-10-25",
+                    "owner": [{
+                        "name": "Joint Stock Company 'Concern Rosenergoatom'"
+                    }],
+                    "location": {
+                        "lat": 59.837,
+                        "lon": 29.0394
+                    },
+                    "country": "Russia",
+                    "operator": "Joint Stock Company 'Concern Rosenergoatom'",
+                    "model": "VVER V-491",
+                    "thermal_capacity": 3200.0,
+                    "design_net_capacity": 1085.0
+                },
+                "created_date": "2016-03-07T15:26:21Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "LENINGRAD 2-1"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "PFBR",
+                "index": {
+                    "construction_start_year": 2004,
+                    "sort_name": "pfbr"
+                },
+                "last_updated": "2016-03-07T15:26:29Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 470.0,
+                    "alternate_name": "(Prototype Fast Breeder Reactor)",
+                    "name": "Pfbr",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=India",
+                        "text": "WNN articles on India",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://world-nuclear.org/info/Country-Profiles/Countries-G-N/India/",
+                        "text": "Nuclear Power in India",
+                        "type": "wna"
+                    }],
+                    "process": "FBR",
+                    "gross_capacity": 500.0,
+                    "construction_start": "2004-10-23",
+                    "owner": [{
+                        "name": "Bharatiya Nabhikiya Vidyut Nigam Limited"
+                    }],
+                    "location": {
+                        "lat": 12.5531,
+                        "lon": 80.174
+                    },
+                    "country": "India",
+                    "operator": "Bharatiya Nabhikiya Vidyut Nigam Limited",
+                    "model": "Prototype",
+                    "thermal_capacity": 1253.0,
+                    "additional_info": "Also known as Prototype Fast Breeder Reactor",
+                    "design_net_capacity": 470.0
+                },
+                "created_date": "2016-03-07T15:26:29Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "PFBR"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "RAJASTHAN-7",
+                "index": {
+                    "construction_start_year": 2011,
+                    "sort_name": "rajasthan 7"
+                },
+                "last_updated": "2016-03-07T15:26:32Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 630.0,
+                    "name": "Rajasthan 7",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=India",
+                        "text": "WNN articles on India",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://world-nuclear.org/info/Country-Profiles/Countries-G-N/India/",
+                        "text": "Nuclear Power in India",
+                        "type": "wna"
+                    }],
+                    "process": "PHWR",
+                    "gross_capacity": 700.0,
+                    "construction_start": "2011-07-18",
+                    "owner": [{
+                        "name": "Nuclear Power Corporation Of India Ltd"
+                    }],
+                    "location": {
+                        "lat": 24.8722,
+                        "lon": 75.6259
+                    },
+                    "country": "India",
+                    "operator": "Nuclear Power Corporation Of India Ltd",
+                    "model": "Horizontal Pressure Tube type",
+                    "thermal_capacity": 2177.0,
+                    "design_net_capacity": 630.0
+                },
+                "created_date": "2016-03-07T15:26:32Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "RAJASTHAN-7"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "SHIDAO BAY-1",
+                "index": {
+                    "construction_start_year": 2012,
+                    "sort_name": "shidao bay 1"
+                },
+                "last_updated": "2016-03-07T15:26:35Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 200.0,
+                    "name": "Shidao Bay 1",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=China",
+                        "text": "WNN articles on China",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://world-nuclear.org/info/Country-Profiles/Countries-A-F/China--Nuclear-Power/",
+                        "text": "Nuclear Power in China",
+                        "type": "wna"
+                    }],
+                    "process": "HTGR",
+                    "gross_capacity": 211.0,
+                    "construction_start": "2012-12-09",
+                    "owner": [{
+                        "name": "China Huaneng Group"
+                    }],
+                    "country": "China",
+                    "operator": "Huaneng Shandong Shidao Bay Nuclear Power Company,Ltd.",
+                    "model": "HTR-PM",
+                    "thermal_capacity": 500.0,
+                    "design_net_capacity": 200.0
+                },
+                "created_date": "2016-03-07T15:26:35Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "SHIDAO BAY-1"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "TIANWAN-3",
+                "index": {
+                    "construction_start_year": 2012,
+                    "sort_name": "tianwan 3"
+                },
+                "last_updated": "2016-03-07T15:26:40Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 990.0,
+                    "name": "Tianwan 3",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=China",
+                        "text": "WNN articles on China",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://world-nuclear.org/info/Country-Profiles/Countries-A-F/China--Nuclear-Power/",
+                        "text": "Nuclear Power in China",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 1060.0,
+                    "construction_start": "2012-12-27",
+                    "owner": [{
+                        "name": "China National Nuclear Corporation"
+                    }],
+                    "location": {
+                        "lat": 34.6868,
+                        "lon": 119.456
+                    },
+                    "country": "China",
+                    "operator": "Jiangsu Nuclear Power Corporation",
+                    "model": "VVER V-428M",
+                    "thermal_capacity": 3000.0,
+                    "design_net_capacity": 990.0
+                },
+                "created_date": "2016-03-07T15:26:40Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "TIANWAN-3"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "AKADEMIK LOMONOSOV-1",
+                "index": {
+                    "construction_start_year": 2007,
+                    "sort_name": "akademik lomonosov 1"
+                },
+                "last_updated": "2016-03-07T15:25:48Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 32.0,
+                    "name": "Akademik Lomonosov 1",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=Russia",
+                        "text": "WNN articles on Russia",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://www.world-nuclear.org/info/Country-Profiles/Countries-O-S/Russia/",
+                        "text": "Nuclear Power in Russia",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 38.0,
+                    "construction_start": "2007-04-15",
+                    "owner": [{
+                        "name": "Joint Stock Company 'Concern Rosenergoatom'"
+                    }],
+                    "location": {
+                        "lat": 59.9191,
+                        "lon": 30.2611
+                    },
+                    "country": "Russia",
+                    "operator": "Joint Stock Company 'Concern Rosenergoatom'",
+                    "model": "KLT-40S 'Floating'",
+                    "thermal_capacity": 150.0,
+                    "design_net_capacity": 32.0
+                },
+                "created_date": "2016-03-07T15:25:48Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "AKADEMIK LOMONOSOV-1"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "BARAKAH-1",
+                "index": {
+                    "construction_start_year": 2012,
+                    "sort_name": "barakah 1"
+                },
+                "last_updated": "2016-03-07T15:25:50Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1345.0,
+                    "name": "Barakah 1",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=UAE",
+                        "text": "WNN articles on United Arab Emirates",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://www.world-nuclear.org/info/Country-Profiles/Countries-T-Z/United-Arab-Emirates/",
+                        "text": "Nuclear Power in United Arab Emirates",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 1400.0,
+                    "construction_start": "2012-07-18",
+                    "owner": [{
+                        "name": "Emirates Nuclear Energy Corporation"
+                    }],
+                    "location": {
+                        "lat": 23.9649,
+                        "lon": 52.2332
+                    },
+                    "country": "United Arab Emirates",
+                    "operator": "Emirates Nuclear Energy Corporation",
+                    "model": "APR-1400",
+                    "thermal_capacity": 3983.0,
+                    "design_net_capacity": 1345.0
+                },
+                "created_date": "2016-03-07T15:25:50Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "BARAKAH-1"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "BELARUSIAN-2",
+                "index": {
+                    "construction_start_year": 2014,
+                    "sort_name": "belarusian 2"
+                },
+                "last_updated": "2016-03-07T15:25:51Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1109.0,
+                    "name": "Belarusian 2",
+                    "process": "PWR",
+                    "gross_capacity": 1194.0,
+                    "construction_start": "2014-04-26",
+                    "owner": [{
+                        "name": "Republican Unitary Enterprise \"Belarusian Nuclear Power Plant\""
+                    }],
+                    "country": "Belarus",
+                    "operator": "Republican Unitary Enterprise \"Belarusian Nuclear Power Plant\"",
+                    "model": "VVER V-491",
+                    "thermal_capacity": 3200.0,
+                    "design_net_capacity": 1109.0
+                },
+                "created_date": "2016-03-07T15:25:51Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "BELARUSIAN-2"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "HONGYANHE-4",
+                "index": {
+                    "construction_start_year": 2009,
+                    "sort_name": "hongyanhe 4"
+                },
+                "last_updated": "2016-03-07T15:26:15Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1000.0,
+                    "name": "Hongyanhe 4",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=China",
+                        "text": "WNN articles on China",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://world-nuclear.org/info/Country-Profiles/Countries-A-F/China--Nuclear-Power/",
+                        "text": "Nuclear Power in China",
+                        "type": "wna"
+                    }],
+                    "first_criticality": "2016-03-05",
+                    "process": "PWR",
+                    "gross_capacity": 1080.0,
+                    "construction_start": "2009-08-15",
+                    "owner": [{
+                        "name": "Liaoning Hongyanhe Nuclear Power Co Ltd"
+                    }],
+                    "location": {
+                        "lat": 39.8022,
+                        "lon": 121.47806
+                    },
+                    "country": "China",
+                    "operator": "Liaoning Hongyanhe Nuclear Power Co Ltd",
+                    "model": "CPR-1000",
+                    "thermal_capacity": 2905.0,
+                    "design_net_capacity": 1000.0
+                },
+                "created_date": "2016-03-07T15:26:15Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "HONGYANHE-4"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "KAKRAPAR-4",
+                "index": {
+                    "construction_start_year": 2010,
+                    "sort_name": "kakrapar 4"
+                },
+                "last_updated": "2016-03-07T15:26:17Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 630.0,
+                    "name": "Kakrapar 4",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=India",
+                        "text": "WNN articles on India",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://world-nuclear.org/info/Country-Profiles/Countries-G-N/India/",
+                        "text": "Nuclear Power in India",
+                        "type": "wna"
+                    }],
+                    "process": "PHWR",
+                    "gross_capacity": 700.0,
+                    "construction_start": "2010-11-22",
+                    "owner": [{
+                        "name": "Nuclear Power Corporation Of India Ltd"
+                    }],
+                    "location": {
+                        "lat": 21.2346,
+                        "lon": 73.3507
+                    },
+                    "country": "India",
+                    "operator": "Nuclear Power Corporation Of India Ltd",
+                    "model": "PHWR-700",
+                    "thermal_capacity": 2166.0,
+                    "design_net_capacity": 630.0
+                },
+                "created_date": "2016-03-07T15:26:17Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "KAKRAPAR-4"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "KHMELNITSKI-4",
+                "index": {
+                    "construction_start_year": 1987,
+                    "sort_name": "khmelnitski 4"
+                },
+                "last_updated": "2016-03-07T15:26:18Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 950.0,
+                    "name": "Khmelnitski 4",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=Ukraine",
+                        "text": "WNN articles on Ukraine",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://www.world-nuclear.org/info/Country-Profiles/Countries-T-Z/Ukraine/",
+                        "text": "Nuclear Power in Ukraine",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 1000.0,
+                    "construction_start": "1987-02-01",
+                    "owner": [{
+                        "name": "Se \u201cNnegc \u201cEnergoatom\u201d"
+                    }],
+                    "location": {
+                        "lat": 50.3022,
+                        "lon": 26.643
+                    },
+                    "country": "Ukraine",
+                    "operator": "State Enterprise \u201cNational Nuclear Energy Generating Company \u2018Energoatom\u201d",
+                    "model": "VVER V-392B",
+                    "thermal_capacity": 3200.0,
+                    "design_net_capacity": 950.0
+                },
+                "created_date": "2016-03-07T15:26:18Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "KHMELNITSKI-4"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "MOCHOVCE-3",
+                "index": {
+                    "construction_start_year": 1987,
+                    "sort_name": "mochovce 3"
+                },
+                "last_updated": "2016-03-07T15:26:23Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 440.0,
+                    "name": "Mochovce 3",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=Slovakia",
+                        "text": "WNN articles on Slovakia",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://www.world-nuclear.org/info/Country-Profiles/Countries-O-S/Slovakia/",
+                        "text": "Nuclear Power in Slovakia",
+                        "type": "wna"
+                    }],
+                    "construction_restart": "2009-06-11",
+                    "process": "PWR",
+                    "gross_capacity": 471.0,
+                    "construction_start": "1987-01-27",
+                    "owner": [{
+                        "name": "Slovensk\u00e9 Elektr\u00e1rne, A.S."
+                    }],
+                    "location": {
+                        "lat": 48.2599,
+                        "lon": 18.4547
+                    },
+                    "country": "Slovakia",
+                    "operator": "Slovensk\u00e9 Elektr\u00e1rne, A.S.",
+                    "construction_suspend": "1993-03-05",
+                    "thermal_capacity": 1375.0,
+                    "model": "VVER V-213",
+                    "design_net_capacity": 440.0
+                },
+                "created_date": "2016-03-07T15:26:23Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "MOCHOVCE-3"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "LENINGRAD 2-2",
+                "index": {
+                    "construction_start_year": 2010,
+                    "sort_name": "leningrad 2 2"
+                },
+                "last_updated": "2016-03-07T15:26:21Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1085.0,
+                    "name": "Leningrad 2 2",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=Russia",
+                        "text": "WNN articles on Russia",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://www.world-nuclear.org/info/Country-Profiles/Countries-O-S/Russia/",
+                        "text": "Nuclear Power in Russia",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 1170.0,
+                    "construction_start": "2010-04-15",
+                    "owner": [{
+                        "name": "Joint Stock Company 'Concern Rosenergoatom'"
+                    }],
+                    "location": {
+                        "lat": 59.837,
+                        "lon": 29.0399
+                    },
+                    "country": "Russia",
+                    "operator": "Joint Stock Company 'Concern Rosenergoatom'",
+                    "model": "VVER V-491",
+                    "thermal_capacity": 3200.0,
+                    "design_net_capacity": 1085.0
+                },
+                "created_date": "2016-03-07T15:26:21Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "LENINGRAD 2-2"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "LUNGMEN 1",
+                "index": {
+                    "construction_start_year": 1999,
+                    "sort_name": "lungmen 1"
+                },
+                "last_updated": "2016-03-07T15:26:22Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1300.0,
+                    "name": "Lungmen 1",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=Taiwan",
+                        "text": "WNN articles on Taiwan",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://www.world-nuclear.org/info/Country-Profiles/Others/Nuclear-Power-in-Taiwan/",
+                        "text": "Nuclear Power in Taiwan",
+                        "type": "wna"
+                    }],
+                    "process": "BWR",
+                    "gross_capacity": 1350.0,
+                    "construction_start": "1999-03-31",
+                    "owner": [{
+                        "name": "Taiwan Power Co."
+                    }],
+                    "location": {
+                        "lat": 25.0384,
+                        "lon": 121.924
+                    },
+                    "country": "Taiwan",
+                    "operator": "Taiwan Power Co.",
+                    "model": "ABWR",
+                    "thermal_capacity": 3926.0,
+                    "design_net_capacity": 1300.0
+                },
+                "created_date": "2016-03-07T15:26:22Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "LUNGMEN 1"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "NINGDE-4",
+                "index": {
+                    "construction_start_year": 2010,
+                    "sort_name": "ningde 4"
+                },
+                "last_updated": "2016-03-07T15:26:24Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1018.0,
+                    "name": "Ningde 4",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=China",
+                        "text": "WNN articles on China",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://world-nuclear.org/info/Country-Profiles/Countries-A-F/China--Nuclear-Power/",
+                        "text": "Nuclear Power in China",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 1080.0,
+                    "construction_start": "2010-09-29",
+                    "owner": [{
+                        "name": "China Guangdong Nuclear Power Group"
+                    }],
+                    "location": {
+                        "lat": 27.0447,
+                        "lon": 120.284
+                    },
+                    "country": "China",
+                    "operator": "Fujian Ningde Nuclear Power Company Ltd.",
+                    "model": "CPR-1000",
+                    "thermal_capacity": 2905.0,
+                    "design_net_capacity": 1018.0
+                },
+                "created_date": "2016-03-07T15:26:24Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "NINGDE-4"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "ROSTOV-4",
+                "index": {
+                    "construction_start_year": 2010,
+                    "sort_name": "rostov 4"
+                },
+                "last_updated": "2016-03-07T15:26:33Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1011.0,
+                    "name": "Rostov 4",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=Russia",
+                        "text": "WNN articles on Russia",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://www.world-nuclear.org/info/Country-Profiles/Countries-O-S/Russia/",
+                        "text": "Nuclear Power in Russia",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 1100.0,
+                    "construction_start": "2010-06-16",
+                    "owner": [{
+                        "name": "Joint Stock Company 'Concern Rosenergoatom'"
+                    }],
+                    "location": {
+                        "lat": 47.6026,
+                        "lon": 42.3761
+                    },
+                    "country": "Russia",
+                    "operator": "Joint Stock Company 'Concern Rosenergoatom'",
+                    "model": "VVER V-320",
+                    "thermal_capacity": 3000.0,
+                    "design_net_capacity": 1011.0
+                },
+                "created_date": "2016-03-07T15:26:33Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "ROSTOV-4"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "RAJASTHAN-8",
+                "index": {
+                    "construction_start_year": 2011,
+                    "sort_name": "rajasthan 8"
+                },
+                "last_updated": "2016-03-07T15:26:32Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 630.0,
+                    "name": "Rajasthan 8",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=India",
+                        "text": "WNN articles on India",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://world-nuclear.org/info/Country-Profiles/Countries-G-N/India/",
+                        "text": "Nuclear Power in India",
+                        "type": "wna"
+                    }],
+                    "process": "PHWR",
+                    "gross_capacity": 700.0,
+                    "construction_start": "2011-09-30",
+                    "owner": [{
+                        "name": "Nuclear Power Corporation Of India Ltd"
+                    }],
+                    "location": {
+                        "lat": 24.8722,
+                        "lon": 75.6264
+                    },
+                    "country": "India",
+                    "operator": "Nuclear Power Corporation Of India Ltd",
+                    "model": "Horizontal Pressure Tube type",
+                    "thermal_capacity": 2177.0,
+                    "design_net_capacity": 630.0
+                },
+                "created_date": "2016-03-07T15:26:32Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "RAJASTHAN-8"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "SUMMER-2",
+                "index": {
+                    "construction_start_year": 2013,
+                    "sort_name": "summer 2"
+                },
+                "last_updated": "2016-03-07T15:26:38Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1117.0,
+                    "alternate_name": "(Virgil C. Summer 2)",
+                    "name": "Summer 2",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=USA",
+                        "text": "WNN articles on United States",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://www.world-nuclear.org/info/Country-Profiles/Countries-T-Z/USA--Nuclear-Power/",
+                        "text": "Nuclear Power in United States",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 1250.0,
+                    "construction_start": "2013-03-09",
+                    "owner": [{
+                        "name": "South Carolina Electric & Gas Co."
+                    }],
+                    "location": {
+                        "lat": 34.2995,
+                        "lon": -81.3138
+                    },
+                    "country": "United States Of America",
+                    "operator": "South Carolina Electric & Gas Co.",
+                    "model": "AP-1000",
+                    "thermal_capacity": 3400.0,
+                    "additional_info": "Also known as Virgil C. Summer 2",
+                    "design_net_capacity": 1117.0
+                },
+                "created_date": "2016-03-07T15:26:38Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "SUMMER-2"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "SHIMANE-3",
+                "index": {
+                    "construction_start_year": 2007,
+                    "sort_name": "shimane 3"
+                },
+                "last_updated": "2016-03-07T15:26:36Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1325.0,
+                    "name": "Shimane 3",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=Japan",
+                        "text": "WNN articles on Japan",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://world-nuclear.org/info/Country-Profiles/Countries-G-N/Japan/",
+                        "text": "Nuclear Power in Japan",
+                        "type": "wna"
+                    }],
+                    "process": "BWR",
+                    "gross_capacity": 1373.0,
+                    "construction_start": "2007-10-12",
+                    "owner": [{
+                        "name": "The Chugoku Electric Power Co.,Inc."
+                    }],
+                    "location": {
+                        "lat": 35.5388,
+                        "lon": 133.005
+                    },
+                    "country": "Japan",
+                    "operator": "The Chugoku Electric Power Co.,Inc.",
+                    "model": "ABWR",
+                    "thermal_capacity": 3926.0,
+                    "design_net_capacity": 1325.0
+                },
+                "created_date": "2016-03-07T15:26:36Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "SHIMANE-3"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "BARAKAH-2",
+                "index": {
+                    "construction_start_year": 2013,
+                    "sort_name": "barakah 2"
+                },
+                "last_updated": "2016-03-07T15:25:50Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1345.0,
+                    "name": "Barakah 2",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=UAE",
+                        "text": "WNN articles on United Arab Emirates",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://www.world-nuclear.org/info/Country-Profiles/Countries-T-Z/United-Arab-Emirates/",
+                        "text": "Nuclear Power in United Arab Emirates",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 1400.0,
+                    "construction_start": "2013-05-28",
+                    "owner": [{
+                        "name": "Emirates Nuclear Energy Corporation"
+                    }],
+                    "location": {
+                        "lat": 23.9649,
+                        "lon": 52.2337
+                    },
+                    "country": "United Arab Emirates",
+                    "operator": "Emirates Nuclear Energy Corporation",
+                    "model": "APR-1400",
+                    "thermal_capacity": 3983.0,
+                    "design_net_capacity": 1345.0
+                },
+                "created_date": "2016-03-07T15:25:50Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "BARAKAH-2"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "BELARUSIAN-1",
+                "index": {
+                    "construction_start_year": 2013,
+                    "sort_name": "belarusian 1"
+                },
+                "last_updated": "2016-03-07T15:25:51Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1109.0,
+                    "name": "Belarusian 1",
+                    "process": "PWR",
+                    "gross_capacity": 1194.0,
+                    "construction_start": "2013-11-06",
+                    "owner": [{
+                        "name": "Republican Unitary Enterprise \"Belarusian Nuclear Power Plant\""
+                    }],
+                    "country": "Belarus",
+                    "operator": "Republican Unitary Enterprise \"Belarusian Nuclear Power Plant\"",
+                    "model": "VVER V-491",
+                    "thermal_capacity": 3200.0,
+                    "design_net_capacity": 1109.0
+                },
+                "created_date": "2016-03-07T15:25:51Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "BELARUSIAN-1"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "AKADEMIK LOMONOSOV-2",
+                "index": {
+                    "construction_start_year": 2007,
+                    "sort_name": "akademik lomonosov 2"
+                },
+                "last_updated": "2016-03-07T15:25:48Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 32.0,
+                    "name": "Akademik Lomonosov 2",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=Russia",
+                        "text": "WNN articles on Russia",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://www.world-nuclear.org/info/Country-Profiles/Countries-O-S/Russia/",
+                        "text": "Nuclear Power in Russia",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 38.0,
+                    "construction_start": "2007-04-15",
+                    "owner": [{
+                        "name": "Joint Stock Company 'Concern Rosenergoatom'"
+                    }],
+                    "location": {
+                        "lat": 59.9185,
+                        "lon": 30.2611
+                    },
+                    "country": "Russia",
+                    "operator": "Joint Stock Company 'Concern Rosenergoatom'",
+                    "model": "KLT-40S 'Floating'",
+                    "thermal_capacity": 150.0,
+                    "design_net_capacity": 32.0
+                },
+                "created_date": "2016-03-07T15:25:48Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "AKADEMIK LOMONOSOV-2"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "ANGRA-3",
+                "index": {
+                    "construction_start_year": 2010,
+                    "sort_name": "angra 3"
+                },
+                "last_updated": "2016-03-07T15:25:49Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1245.0,
+                    "name": "Angra 3",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=Brazil",
+                        "text": "WNN articles on Brazil",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://world-nuclear.org/info/Country-Profiles/Countries-A-F/Brazil/",
+                        "text": "Nuclear Power in Brazil",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 1350.0,
+                    "image": "http://world-nuclear.org/assets/0/16/660/676/7afd76e6-25a2-4fe7-bec8-5efd7ac05f9c.jpg",
+                    "construction_start": "2010-06-01",
+                    "owner": [{
+                        "name": "Eletrobras Eletronuclear S.A."
+                    }],
+                    "location": {
+                        "lat": -23.0099,
+                        "lon": -44.47
+                    },
+                    "country": "Brazil",
+                    "operator": "Eletrobras Eletronuclear S.A.",
+                    "model": "PRE KONVOI",
+                    "thermal_capacity": 3765.0,
+                    "design_net_capacity": 1245.0,
+                    "image_label": "The Angra nuclear power plant in Brazil Image  [Areva](http:/areva.fr)"
+                },
+                "created_date": "2016-03-07T15:25:49Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "ANGRA-3"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "FLAMANVILLE-3",
+                "index": {
+                    "construction_start_year": 2007,
+                    "sort_name": "flamanville 3"
+                },
+                "last_updated": "2016-03-07T15:26:07Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1600.0,
+                    "name": "Flamanville 3",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=France",
+                        "text": "WNN articles on France",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://world-nuclear.org/info/Country-Profiles/Countries-A-F/France/",
+                        "text": "Nuclear Power in France",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 1650.0,
+                    "construction_start": "2007-12-03",
+                    "owner": [{
+                        "name": "EDF"
+                    }],
+                    "location": {
+                        "lat": 49.5395,
+                        "lon": -1.87719
+                    },
+                    "country": "France",
+                    "operator": "EDF",
+                    "model": "EPR",
+                    "thermal_capacity": 4300.0,
+                    "design_net_capacity": 1630.0
+                },
+                "created_date": "2016-03-07T15:26:07Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "FLAMANVILLE-3"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "FANGCHENGGANG-2",
+                "index": {
+                    "construction_start_year": 2010,
+                    "sort_name": "fangchenggang 2"
+                },
+                "last_updated": "2016-03-07T15:26:07Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1000.0,
+                    "name": "Fangchenggang 2",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=China",
+                        "text": "WNN articles on China",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://world-nuclear.org/info/Country-Profiles/Countries-A-F/China--Nuclear-Power/",
+                        "text": "Nuclear Power in China",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 1080.0,
+                    "construction_start": "2010-12-23",
+                    "owner": [{
+                        "name": "Guangxi Fangchenggang Nuclear Power Company Ltd"
+                    }],
+                    "location": {
+                        "lat": 21.605,
+                        "lon": 108.3
+                    },
+                    "country": "China",
+                    "operator": "Guangxi Fangchenggang Nuclear Power Company Ltd",
+                    "model": "CPR-1000",
+                    "thermal_capacity": 2905.0,
+                    "design_net_capacity": 1000.0
+                },
+                "created_date": "2016-03-07T15:26:07Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "FANGCHENGGANG-2"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "CHASNUPP-4",
+                "index": {
+                    "construction_start_year": 2011,
+                    "sort_name": "chasnupp 4"
+                },
+                "last_updated": "2016-03-07T15:26:00Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 315.0,
+                    "name": "Chasnupp 4",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=Pakistan",
+                        "text": "WNN articles on Pakistan",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://www.world-nuclear.org/info/Country-Profiles/Countries-O-S/Pakistan/",
+                        "text": "Nuclear Power in Pakistan",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 340.0,
+                    "construction_start": "2011-12-18",
+                    "owner": [{
+                        "name": "Pakistan Atomic Energy Commission"
+                    }],
+                    "location": {
+                        "lat": 32.3919,
+                        "lon": 71.466
+                    },
+                    "country": "Pakistan",
+                    "operator": "Pakistan Atomic Energy Commission",
+                    "model": "CNP-300",
+                    "thermal_capacity": 999.0,
+                    "design_net_capacity": 315.0
+                },
+                "created_date": "2016-03-07T15:26:00Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "CHASNUPP-4"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "HONGYANHE-5",
+                "index": {
+                    "construction_start_year": 2015,
+                    "sort_name": "hongyanhe 5"
+                },
+                "last_updated": "2016-03-07T15:26:15Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1000.0,
+                    "name": "Hongyanhe 5",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=China",
+                        "text": "WNN articles on China",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://world-nuclear.org/info/Country-Profiles/Countries-A-F/China--Nuclear-Power/",
+                        "text": "Nuclear Power in China",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 1080.0,
+                    "construction_start": "2015-03-29",
+                    "owner": [{
+                        "name": "Liaoning Hongyanhe Nuclear Power Co Ltd"
+                    }],
+                    "location": {
+                        "lat": 39.815,
+                        "lon": 121.468
+                    },
+                    "country": "China",
+                    "operator": "Liaoning Hongyanhe Nuclear Power Co Ltd",
+                    "model": "ACPR-1000",
+                    "thermal_capacity": 2905.0,
+                    "design_net_capacity": 1000.0
+                },
+                "created_date": "2016-03-07T15:26:15Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "HONGYANHE-5"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "FUQING-3",
+                "index": {
+                    "construction_start_year": 2010,
+                    "sort_name": "fuqing 3"
+                },
+                "last_updated": "2016-03-07T15:26:10Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1000.0,
+                    "name": "Fuqing 3",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=China",
+                        "text": "WNN articles on China",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://world-nuclear.org/info/Country-Profiles/Countries-A-F/China--Nuclear-Power/",
+                        "text": "Nuclear Power in China",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 1080.0,
+                    "construction_start": "2010-12-31",
+                    "owner": [{
+                        "name": "China National Nuclear Corporation"
+                    }],
+                    "location": {
+                        "lat": 25.4385,
+                        "lon": 119.453
+                    },
+                    "country": "China",
+                    "operator": "CNNC Fujian Fuqing Nuclear Power Co Ltd",
+                    "model": "CPR-1000",
+                    "thermal_capacity": 2905.0,
+                    "design_net_capacity": 1000.0
+                },
+                "created_date": "2016-03-07T15:26:10Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "FUQING-3"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "KHMELNITSKI-3",
+                "index": {
+                    "construction_start_year": 1986,
+                    "sort_name": "khmelnitski 3"
+                },
+                "last_updated": "2016-03-07T15:26:18Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 950.0,
+                    "name": "Khmelnitski 3",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=Ukraine",
+                        "text": "WNN articles on Ukraine",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://www.world-nuclear.org/info/Country-Profiles/Countries-T-Z/Ukraine/",
+                        "text": "Nuclear Power in Ukraine",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 1000.0,
+                    "construction_start": "1986-03-01",
+                    "owner": [{
+                        "name": "Se \u201cNnegc \u201cEnergoatom\u201d"
+                    }],
+                    "location": {
+                        "lat": 50.3016,
+                        "lon": 26.645
+                    },
+                    "country": "Ukraine",
+                    "operator": "State Enterprise \u201cNational Nuclear Energy Generating Company \u2018Energoatom\u201d",
+                    "model": "VVER V-392B",
+                    "thermal_capacity": 3200.0,
+                    "design_net_capacity": 950.0
+                },
+                "created_date": "2016-03-07T15:26:18Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "KHMELNITSKI-3"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "OHMA",
+                "index": {
+                    "construction_start_year": 2010,
+                    "sort_name": "ohma"
+                },
+                "last_updated": "2016-03-07T15:26:26Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1325.0,
+                    "name": "Ohma",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=Japan",
+                        "text": "WNN articles on Japan",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://world-nuclear.org/info/Country-Profiles/Countries-G-N/Japan/",
+                        "text": "Nuclear Power in Japan",
+                        "type": "wna"
+                    }],
+                    "process": "BWR",
+                    "gross_capacity": 1383.0,
+                    "construction_start": "2010-05-07",
+                    "owner": [{
+                        "name": "Electric Power Development Co.,Ltd."
+                    }],
+                    "location": {
+                        "lat": 41.507,
+                        "lon": 140.909
+                    },
+                    "country": "Japan",
+                    "operator": "Electric Power Development Co.,Ltd.",
+                    "model": "ABWR",
+                    "thermal_capacity": 3926.0,
+                    "design_net_capacity": 1325.0
+                },
+                "created_date": "2016-03-07T15:26:26Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "OHMA"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "LUNGMEN 2",
+                "index": {
+                    "construction_start_year": 1999,
+                    "sort_name": "lungmen 2"
+                },
+                "last_updated": "2016-03-07T15:26:22Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1300.0,
+                    "name": "Lungmen 2",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=Taiwan",
+                        "text": "WNN articles on Taiwan",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://www.world-nuclear.org/info/Country-Profiles/Others/Nuclear-Power-in-Taiwan/",
+                        "text": "Nuclear Power in Taiwan",
+                        "type": "wna"
+                    }],
+                    "process": "BWR",
+                    "gross_capacity": 1350.0,
+                    "construction_start": "1999-08-30",
+                    "owner": [{
+                        "name": "Taiwan Power Co."
+                    }],
+                    "location": {
+                        "lat": 25.0389,
+                        "lon": 121.924
+                    },
+                    "country": "Taiwan",
+                    "operator": "Taiwan Power Co.",
+                    "model": "ABWR",
+                    "thermal_capacity": 3926.0,
+                    "design_net_capacity": 1300.0
+                },
+                "created_date": "2016-03-07T15:26:22Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "LUNGMEN 2"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "KUDANKULAM-2",
+                "index": {
+                    "construction_start_year": 2002,
+                    "sort_name": "kudankulam 2"
+                },
+                "last_updated": "2016-03-07T15:26:20Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 917.0,
+                    "name": "Kudankulam 2",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=India",
+                        "text": "WNN articles on India",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://world-nuclear.org/info/Country-Profiles/Countries-G-N/India/",
+                        "text": "Nuclear Power in India",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 1000.0,
+                    "construction_start": "2002-07-04",
+                    "owner": [{
+                        "name": "Nuclear Power Corporation Of India Ltd"
+                    }],
+                    "location": {
+                        "lat": 8.16666,
+                        "lon": 77.7127
+                    },
+                    "country": "India",
+                    "operator": "Nuclear Power Corporation Of India Ltd",
+                    "model": "VVER V-412",
+                    "thermal_capacity": 3000.0,
+                    "design_net_capacity": 917.0
+                },
+                "created_date": "2016-03-07T15:26:20Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "KUDANKULAM-2"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "VOGTLE-3",
+                "index": {
+                    "construction_start_year": 2013,
+                    "sort_name": "vogtle 3"
+                },
+                "last_updated": "2016-03-07T15:26:43Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1117.0,
+                    "name": "Vogtle 3",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=USA",
+                        "text": "WNN articles on United States",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://www.world-nuclear.org/info/Country-Profiles/Countries-T-Z/USA--Nuclear-Power/",
+                        "text": "Nuclear Power in United States",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 1250.0,
+                    "construction_start": "2013-03-12",
+                    "owner": [{
+                        "name": "Georgia Power Co."
+                    }],
+                    "location": {
+                        "lat": 33.14269,
+                        "lon": -81.76824
+                    },
+                    "country": "United States Of America",
+                    "operator": "Southern Nuclear Operating Company, Inc.",
+                    "model": "AP-1000",
+                    "thermal_capacity": 3400.0,
+                    "design_net_capacity": 1117.0
+                },
+                "created_date": "2016-03-07T15:26:43Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "VOGTLE-3"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "WATTS BAR-2",
+                "index": {
+                    "construction_start_year": 1973,
+                    "sort_name": "watts bar 2"
+                },
+                "last_updated": "2016-03-07T15:26:43Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1165.0,
+                    "name": "Watts Bar 2",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=USA",
+                        "text": "WNN articles on United States",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://www.world-nuclear.org/info/Country-Profiles/Countries-T-Z/USA--Nuclear-Power/",
+                        "text": "Nuclear Power in United States",
+                        "type": "wna"
+                    }],
+                    "construction_restart": "2007-10-15",
+                    "process": "PWR",
+                    "gross_capacity": 1218.0,
+                    "construction_start": "1973-09-01",
+                    "owner": [{
+                        "name": "Tennessee Valley Authority"
+                    }],
+                    "location": {
+                        "lat": 35.6005,
+                        "lon": -84.7893
+                    },
+                    "country": "United States Of America",
+                    "operator": "Tennessee Valley Authority",
+                    "construction_suspend": "1985-09-17",
+                    "thermal_capacity": 3425.0,
+                    "model": "W (4-loop) (ICECND)",
+                    "design_net_capacity": 1165.0
+                },
+                "created_date": "2016-03-07T15:26:43Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "WATTS BAR-2"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "SUMMER-3",
+                "index": {
+                    "construction_start_year": 2013,
+                    "sort_name": "summer 3"
+                },
+                "last_updated": "2016-03-07T15:26:38Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1117.0,
+                    "alternate_name": "(Virgil C. Summer 3)",
+                    "name": "Summer 3",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=USA",
+                        "text": "WNN articles on United States",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://www.world-nuclear.org/info/Country-Profiles/Countries-T-Z/USA--Nuclear-Power/",
+                        "text": "Nuclear Power in United States",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 1250.0,
+                    "construction_start": "2013-11-02",
+                    "owner": [{
+                        "name": "South Carolina Electric & Gas Co."
+                    }],
+                    "location": {
+                        "lat": 34.29463,
+                        "lon": -81.32043
+                    },
+                    "country": "United States Of America",
+                    "operator": "South Carolina Electric & Gas Co.",
+                    "model": "AP-1000",
+                    "thermal_capacity": 3400.0,
+                    "additional_info": "Also known as Virgil C. Summer 3",
+                    "design_net_capacity": 1117.0
+                },
+                "created_date": "2016-03-07T15:26:38Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "SUMMER-3"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "SHIN-HANUL-1",
+                "index": {
+                    "construction_start_year": 2012,
+                    "sort_name": "shin hanul 1"
+                },
+                "last_updated": "2016-03-07T15:26:36Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1340.0,
+                    "name": "Shin Hanul 1",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=South_Korea",
+                        "text": "WNN articles on South Korea",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://www.world-nuclear.org/info/Country-Profiles/Countries-O-S/South-Korea/",
+                        "text": "Nuclear Power in South Korea",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 1400.0,
+                    "construction_start": "2012-07-10",
+                    "owner": [{
+                        "name": "Korea Hydro And Nuclear Power Co."
+                    }],
+                    "location": {
+                        "lat": 37.08677,
+                        "lon": 129.387237
+                    },
+                    "country": "South Korea",
+                    "operator": "Korea Hydro And Nuclear Power Co.",
+                    "model": "APR-1400",
+                    "thermal_capacity": 3938.0,
+                    "design_net_capacity": 1340.0
+                },
+                "created_date": "2016-03-07T15:26:36Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "SHIN-HANUL-1"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "SHIN-KORI-4",
+                "index": {
+                    "construction_start_year": 2009,
+                    "sort_name": "shin kori 4"
+                },
+                "last_updated": "2016-03-07T15:26:36Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1340.0,
+                    "name": "Shin Kori 4",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=South_Korea",
+                        "text": "WNN articles on South Korea",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://www.world-nuclear.org/info/Country-Profiles/Countries-O-S/South-Korea/",
+                        "text": "Nuclear Power in South Korea",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 1400.0,
+                    "construction_start": "2009-08-19",
+                    "owner": [{
+                        "name": "Korea Hydro And Nuclear Power Co."
+                    }],
+                    "location": {
+                        "lat": 35.3331,
+                        "lon": 129.302
+                    },
+                    "country": "South Korea",
+                    "operator": "Korea Hydro And Nuclear Power Co.",
+                    "model": "APR-1400",
+                    "thermal_capacity": 3938.0,
+                    "design_net_capacity": 1340.0
+                },
+                "created_date": "2016-03-07T15:26:36Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "SHIN-KORI-4"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "YANGJIANG-4",
+                "index": {
+                    "construction_start_year": 2012,
+                    "sort_name": "yangjiang 4"
+                },
+                "last_updated": "2016-03-07T15:26:45Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1000.0,
+                    "name": "Yangjiang 4",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=China",
+                        "text": "WNN articles on China",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://world-nuclear.org/info/Country-Profiles/Countries-A-F/China--Nuclear-Power/",
+                        "text": "Nuclear Power in China",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 1080.0,
+                    "construction_start": "2012-11-17",
+                    "owner": [{
+                        "name": "China Guangdong Nuclear Power Group"
+                    }],
+                    "location": {
+                        "lat": 21.701,
+                        "lon": 112.256
+                    },
+                    "country": "China",
+                    "operator": "Yangjiang Nuclear Power Company",
+                    "model": "CPR-1000",
+                    "thermal_capacity": 2905.0,
+                    "design_net_capacity": 1000.0
+                },
+                "created_date": "2016-03-07T15:26:45Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "YANGJIANG-4"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "BALTIC-1",
+                "index": {
+                    "construction_start_year": 2012,
+                    "sort_name": "baltic 1"
+                },
+                "last_updated": "2016-03-07T15:25:50Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1109.0,
+                    "name": "Baltic 1",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=Russia",
+                        "text": "WNN articles on Russia",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://www.world-nuclear.org/info/Country-Profiles/Countries-O-S/Russia/",
+                        "text": "Nuclear Power in Russia",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 1194.0,
+                    "construction_start": "2012-02-22",
+                    "owner": [{
+                        "name": "Joint Stock Company 'Concern Rosenergoatom'"
+                    }],
+                    "location": {
+                        "lat": 54.9393,
+                        "lon": 22.1624
+                    },
+                    "country": "Russia",
+                    "operator": "Joint Stock Company 'Concern Rosenergoatom'",
+                    "model": "VVER V-491",
+                    "thermal_capacity": 3200.0,
+                    "design_net_capacity": 1109.0
+                },
+                "created_date": "2016-03-07T15:25:50Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "BALTIC-1"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "BARAKAH-3",
+                "index": {
+                    "construction_start_year": 2014,
+                    "sort_name": "barakah 3"
+                },
+                "last_updated": "2016-03-07T15:25:50Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1345.0,
+                    "name": "Barakah 3",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=UAE",
+                        "text": "WNN articles on United Arab Emirates",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://www.world-nuclear.org/info/Country-Profiles/Countries-T-Z/United-Arab-Emirates/",
+                        "text": "Nuclear Power in United Arab Emirates",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 1400.0,
+                    "construction_start": "2014-09-24",
+                    "owner": [{
+                        "name": "Emirates Nuclear Energy Corporation"
+                    }],
+                    "location": {
+                        "lat": 23.965613,
+                        "lon": 52.230472
+                    },
+                    "country": "United Arab Emirates",
+                    "operator": "Emirates Nuclear Energy Corporation",
+                    "model": "APR-1400",
+                    "thermal_capacity": 3983.0,
+                    "design_net_capacity": 1345.0
+                },
+                "created_date": "2016-03-07T15:25:50Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "BARAKAH-3"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "CHANGJIANG-2",
+                "index": {
+                    "construction_start_year": 2010,
+                    "sort_name": "changjiang 2"
+                },
+                "last_updated": "2016-03-07T15:25:59Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 610.0,
+                    "name": "Changjiang 2",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=China",
+                        "text": "WNN articles on China",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://world-nuclear.org/info/Country-Profiles/Countries-A-F/China--Nuclear-Power/",
+                        "text": "Nuclear Power in China",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 650.0,
+                    "construction_start": "2010-11-21",
+                    "owner": [{
+                        "name": "China National Nuclear Corporation"
+                    }],
+                    "location": {
+                        "lat": 19.4358,
+                        "lon": 108.799
+                    },
+                    "country": "China",
+                    "operator": "Hainan Nuclear Power Company",
+                    "model": "CNP-600",
+                    "thermal_capacity": 1930.0,
+                    "design_net_capacity": 610.0
+                },
+                "created_date": "2016-03-07T15:25:59Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "CHANGJIANG-2"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "CHASNUPP-3",
+                "index": {
+                    "construction_start_year": 2011,
+                    "sort_name": "chasnupp 3"
+                },
+                "last_updated": "2016-03-07T15:26:00Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 315.0,
+                    "name": "Chasnupp 3",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=Pakistan",
+                        "text": "WNN articles on Pakistan",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://www.world-nuclear.org/info/Country-Profiles/Countries-O-S/Pakistan/",
+                        "text": "Nuclear Power in Pakistan",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 340.0,
+                    "construction_start": "2011-05-28",
+                    "owner": [{
+                        "name": "Pakistan Atomic Energy Commission"
+                    }],
+                    "location": {
+                        "lat": 32.3919,
+                        "lon": 71.465
+                    },
+                    "country": "Pakistan",
+                    "operator": "Pakistan Atomic Energy Commission",
+                    "model": "CNP-300",
+                    "thermal_capacity": 999.0,
+                    "design_net_capacity": 315.0
+                },
+                "created_date": "2016-03-07T15:26:00Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "CHASNUPP-3"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "HAIYANG-1",
+                "index": {
+                    "construction_start_year": 2009,
+                    "sort_name": "haiyang 1"
+                },
+                "last_updated": "2016-03-07T15:26:12Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1000.0,
+                    "name": "Haiyang 1",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=China",
+                        "text": "WNN articles on China",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://world-nuclear.org/info/Country-Profiles/Countries-A-F/China--Nuclear-Power/",
+                        "text": "Nuclear Power in China",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 1250.0,
+                    "construction_start": "2009-09-24",
+                    "owner": [{
+                        "name": "China Power Investment Corporation"
+                    }],
+                    "location": {
+                        "lat": 36.7042,
+                        "lon": 121.382
+                    },
+                    "country": "China",
+                    "operator": "Shandong Nuclear Power Company Ltd",
+                    "model": "AP-1000",
+                    "thermal_capacity": 3451.0,
+                    "design_net_capacity": 1000.0
+                },
+                "created_date": "2016-03-07T15:26:12Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "HAIYANG-1"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "HONGYANHE-6",
+                "index": {
+                    "construction_start_year": 2015,
+                    "sort_name": "hongyanhe 6"
+                },
+                "last_updated": "2016-03-07T15:26:15Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1000.0,
+                    "name": "Hongyanhe 6",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=China",
+                        "text": "WNN articles on China",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://world-nuclear.org/info/Country-Profiles/Countries-A-F/China--Nuclear-Power/",
+                        "text": "Nuclear Power in China",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 1080.0,
+                    "construction_start": "2015-07-24",
+                    "owner": [{
+                        "name": "Liaoning Hongyanhe Nuclear Power Co Ltd"
+                    }],
+                    "location": {
+                        "lat": 39.82,
+                        "lon": 121.468
+                    },
+                    "country": "China",
+                    "operator": "Liaoning Hongyanhe Nuclear Power Co Ltd",
+                    "model": "ACPR-1000",
+                    "thermal_capacity": 2905.0,
+                    "design_net_capacity": 1000.0
+                },
+                "created_date": "2016-03-07T15:26:15Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "HONGYANHE-6"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "FUQING-4",
+                "index": {
+                    "construction_start_year": 2012,
+                    "sort_name": "fuqing 4"
+                },
+                "last_updated": "2016-03-07T15:26:10Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1000.0,
+                    "name": "Fuqing 4",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=China",
+                        "text": "WNN articles on China",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://world-nuclear.org/info/Country-Profiles/Countries-A-F/China--Nuclear-Power/",
+                        "text": "Nuclear Power in China",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 1080.0,
+                    "construction_start": "2012-11-17",
+                    "owner": [{
+                        "name": "China National Nuclear Corporation"
+                    }],
+                    "location": {
+                        "lat": 25.437,
+                        "lon": 119.453
+                    },
+                    "country": "China",
+                    "operator": "CNNC Fujian Fuqing Nuclear Power Co Ltd",
+                    "model": "CPR-1000",
+                    "thermal_capacity": 2905.0,
+                    "design_net_capacity": 1000.0
+                },
+                "created_date": "2016-03-07T15:26:10Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "FUQING-4"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "OLKILUOTO-3",
+                "index": {
+                    "construction_start_year": 2005,
+                    "sort_name": "olkiluoto 3"
+                },
+                "last_updated": "2016-03-07T15:26:26Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1600.0,
+                    "name": "Olkiluoto 3",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=Finland",
+                        "text": "WNN articles on Finland",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://world-nuclear.org/info/Country-Profiles/Countries-A-F/Finland/",
+                        "text": "Nuclear Power in Finland",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 1720.0,
+                    "construction_start": "2005-08-12",
+                    "owner": [{
+                        "name": "Teollisuuden Voima Oyj"
+                    }],
+                    "location": {
+                        "lat": 61.2344,
+                        "lon": 21.4353
+                    },
+                    "country": "Finland",
+                    "operator": "Teollisuuden Voima Oyj",
+                    "model": "EPR",
+                    "thermal_capacity": 4300.0,
+                    "design_net_capacity": 1600.0
+                },
+                "created_date": "2016-03-07T15:26:26Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "OLKILUOTO-3"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "SANMEN-1",
+                "index": {
+                    "construction_start_year": 2009,
+                    "sort_name": "sanmen 1"
+                },
+                "last_updated": "2016-03-07T15:26:34Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1000.0,
+                    "name": "Sanmen 1",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=China",
+                        "text": "WNN articles on China",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://world-nuclear.org/info/Country-Profiles/Countries-A-F/China--Nuclear-Power/",
+                        "text": "Nuclear Power in China",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 1250.0,
+                    "construction_start": "2009-04-19",
+                    "owner": [{
+                        "name": "China National Nuclear Corporation"
+                    }],
+                    "location": {
+                        "lat": 29.1011,
+                        "lon": 121.642
+                    },
+                    "country": "China",
+                    "operator": "Sanmen Nuclear Power Co.,Ltd.",
+                    "model": "AP-1000",
+                    "thermal_capacity": 3400.0,
+                    "design_net_capacity": 1000.0
+                },
+                "created_date": "2016-03-07T15:26:34Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "SANMEN-1"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "SHIN-HANUL-2",
+                "index": {
+                    "construction_start_year": 2013,
+                    "sort_name": "shin hanul 2"
+                },
+                "last_updated": "2016-03-07T15:26:36Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1340.0,
+                    "name": "Shin Hanul 2",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=South_Korea",
+                        "text": "WNN articles on South Korea",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://www.world-nuclear.org/info/Country-Profiles/Countries-O-S/South-Korea/",
+                        "text": "Nuclear Power in South Korea",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 1400.0,
+                    "construction_start": "2013-06-19",
+                    "owner": [{
+                        "name": "Korea Hydro And Nuclear Power Co."
+                    }],
+                    "location": {
+                        "lat": 37.08677,
+                        "lon": 129.388237
+                    },
+                    "country": "South Korea",
+                    "operator": "Korea Hydro And Nuclear Power Co.",
+                    "model": "APR-1400",
+                    "thermal_capacity": 3983.0,
+                    "design_net_capacity": 1340.0
+                },
+                "created_date": "2016-03-07T15:26:36Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "SHIN-HANUL-2"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "TAISHAN-2",
+                "index": {
+                    "construction_start_year": 2010,
+                    "sort_name": "taishan 2"
+                },
+                "last_updated": "2016-03-07T15:26:39Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1660.0,
+                    "name": "Taishan 2",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=China",
+                        "text": "WNN articles on China",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://world-nuclear.org/info/Country-Profiles/Countries-A-F/China--Nuclear-Power/",
+                        "text": "Nuclear Power in China",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 1750.0,
+                    "construction_start": "2010-04-15",
+                    "owner": [{
+                        "name": "Guangdong Taishan Nuclear Power Joint Venture Co Ltd"
+                    }],
+                    "location": {
+                        "lat": 21.921134,
+                        "lon": 112.981754
+                    },
+                    "country": "China",
+                    "operator": "Guangdong Taishan Nuclear Power Joint Venture Co Ltd",
+                    "model": "EPR-1750",
+                    "thermal_capacity": 4590.0,
+                    "design_net_capacity": 1660.0
+                },
+                "created_date": "2016-03-07T15:26:39Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "TAISHAN-2"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "VOGTLE-4",
+                "index": {
+                    "construction_start_year": 2013,
+                    "sort_name": "vogtle 4"
+                },
+                "last_updated": "2016-03-07T15:26:43Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1117.0,
+                    "name": "Vogtle 4",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=USA",
+                        "text": "WNN articles on United States",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://www.world-nuclear.org/info/Country-Profiles/Countries-T-Z/USA--Nuclear-Power/",
+                        "text": "Nuclear Power in United States",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 1250.0,
+                    "construction_start": "2013-11-19",
+                    "owner": [{
+                        "name": "Georgia Power Co."
+                    }],
+                    "location": {
+                        "lat": 33.1399,
+                        "lon": -81.7712
+                    },
+                    "country": "United States Of America",
+                    "operator": "Southern Nuclear Operating Company, Inc.",
+                    "model": "AP-1000",
+                    "thermal_capacity": 3400.0,
+                    "design_net_capacity": 1117.0
+                },
+                "created_date": "2016-03-07T15:26:43Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "VOGTLE-4"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "YANGJIANG-5",
+                "index": {
+                    "construction_start_year": 2013,
+                    "sort_name": "yangjiang 5"
+                },
+                "last_updated": "2016-03-07T15:26:45Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1000.0,
+                    "name": "Yangjiang 5",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=China",
+                        "text": "WNN articles on China",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://world-nuclear.org/info/Country-Profiles/Countries-A-F/China--Nuclear-Power/",
+                        "text": "Nuclear Power in China",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 1087.0,
+                    "construction_start": "2013-09-18",
+                    "owner": [{
+                        "name": "China Guangdong Nuclear Power Group"
+                    }],
+                    "location": {
+                        "lat": 21.699,
+                        "lon": 112.256
+                    },
+                    "country": "China",
+                    "operator": "Yangjiang Nuclear Power Company",
+                    "model": "ACPR-1000",
+                    "thermal_capacity": 2905.0,
+                    "design_net_capacity": 1000.0
+                },
+                "created_date": "2016-03-07T15:26:45Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "YANGJIANG-5"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "HAIYANG-2",
+                "index": {
+                    "construction_start_year": 2010,
+                    "sort_name": "haiyang 2"
+                },
+                "last_updated": "2016-03-07T15:26:12Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1000.0,
+                    "name": "Haiyang 2",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=China",
+                        "text": "WNN articles on China",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://world-nuclear.org/info/Country-Profiles/Countries-A-F/China--Nuclear-Power/",
+                        "text": "Nuclear Power in China",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 1250.0,
+                    "construction_start": "2010-06-20",
+                    "owner": [{
+                        "name": "China Power Investment Corporation"
+                    }],
+                    "location": {
+                        "lat": 36.7542,
+                        "lon": 121.382
+                    },
+                    "country": "China",
+                    "operator": "Shandong Nuclear Power Company Ltd",
+                    "model": "AP-1000",
+                    "thermal_capacity": 3415.0,
+                    "design_net_capacity": 1000.0
+                },
+                "created_date": "2016-03-07T15:26:12Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "HAIYANG-2"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "FUQING-5",
+                "index": {
+                    "construction_start_year": 2015,
+                    "sort_name": "fuqing 5"
+                },
+                "last_updated": "2016-03-07T15:26:10Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1000.0,
+                    "name": "Fuqing 5",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=China",
+                        "text": "WNN articles on China",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://world-nuclear.org/info/Country-Profiles/Countries-A-F/China--Nuclear-Power/",
+                        "text": "Nuclear Power in China",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 1087.0,
+                    "construction_start": "2015-05-07",
+                    "owner": [{
+                        "name": "China National Nuclear Corporation"
+                    }],
+                    "location": {
+                        "lat": 25.355,
+                        "lon": 119.453
+                    },
+                    "country": "China",
+                    "operator": "CNNC Fujian Fuqing Nuclear Power Co Ltd",
+                    "model": "Hualong One",
+                    "thermal_capacity": 2905.0,
+                    "design_net_capacity": 1000.0
+                },
+                "created_date": "2016-03-07T15:26:10Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "FUQING-5"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "NOVOVORONEZH 2-2",
+                "index": {
+                    "construction_start_year": 2009,
+                    "sort_name": "novovoronezh 2 2"
+                },
+                "last_updated": "2016-03-07T15:26:24Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1114.0,
+                    "name": "Novovoronezh 2 2",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=Russia",
+                        "text": "WNN articles on Russia",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://www.world-nuclear.org/info/Country-Profiles/Countries-O-S/Russia/",
+                        "text": "Nuclear Power in Russia",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 1199.0,
+                    "construction_start": "2009-07-12",
+                    "owner": [{
+                        "name": "Joint Stock Company 'Concern Rosenergoatom'"
+                    }],
+                    "location": {
+                        "lat": 51.2707,
+                        "lon": 39.1966
+                    },
+                    "country": "Russia",
+                    "operator": "Joint Stock Company 'Concern Rosenergoatom'",
+                    "model": "VVER V-392M",
+                    "thermal_capacity": 3200.0,
+                    "design_net_capacity": 1114.0
+                },
+                "created_date": "2016-03-07T15:26:24Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "NOVOVORONEZH 2-2"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "SANMEN-2",
+                "index": {
+                    "construction_start_year": 2009,
+                    "sort_name": "sanmen 2"
+                },
+                "last_updated": "2016-03-07T15:26:34Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1000.0,
+                    "name": "Sanmen 2",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=China",
+                        "text": "WNN articles on China",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://world-nuclear.org/info/Country-Profiles/Countries-A-F/China--Nuclear-Power/",
+                        "text": "Nuclear Power in China",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 1250.0,
+                    "construction_start": "2009-12-15",
+                    "owner": [{
+                        "name": "China National Nuclear Corporation"
+                    }],
+                    "location": {
+                        "lat": 29.1011,
+                        "lon": 121.647
+                    },
+                    "country": "China",
+                    "operator": "Sanmen Nuclear Power Co.,Ltd.",
+                    "model": "AP-1000",
+                    "thermal_capacity": 3400.0,
+                    "design_net_capacity": 1000.0
+                },
+                "created_date": "2016-03-07T15:26:34Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "SANMEN-2"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "TAISHAN-1",
+                "index": {
+                    "construction_start_year": 2009,
+                    "sort_name": "taishan 1"
+                },
+                "last_updated": "2016-03-07T15:26:39Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1660.0,
+                    "name": "Taishan 1",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=China",
+                        "text": "WNN articles on China",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://world-nuclear.org/info/Country-Profiles/Countries-A-F/China--Nuclear-Power/",
+                        "text": "Nuclear Power in China",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 1750.0,
+                    "construction_start": "2009-11-18",
+                    "owner": [{
+                        "name": "Guangdong Taishan Nuclear Power Joint Venture Co Ltd"
+                    }],
+                    "location": {
+                        "lat": 21.920635,
+                        "lon": 112.977866
+                    },
+                    "country": "China",
+                    "operator": "Guangdong Taishan Nuclear Power Joint Venture Co Ltd",
+                    "model": "EPR-1750",
+                    "thermal_capacity": 4590.0,
+                    "design_net_capacity": 1660.0
+                },
+                "created_date": "2016-03-07T15:26:39Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "TAISHAN-1"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "TIANWAN-4",
+                "index": {
+                    "construction_start_year": 2013,
+                    "sort_name": "tianwan 4"
+                },
+                "last_updated": "2016-03-07T15:26:40Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 990.0,
+                    "name": "Tianwan 4",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=China",
+                        "text": "WNN articles on China",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://world-nuclear.org/info/Country-Profiles/Countries-A-F/China--Nuclear-Power/",
+                        "text": "Nuclear Power in China",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 1060.0,
+                    "construction_start": "2013-09-27",
+                    "owner": [{
+                        "name": "China National Nuclear Corporation"
+                    }],
+                    "location": {
+                        "lat": 34.6858,
+                        "lon": 119.456
+                    },
+                    "country": "China",
+                    "operator": "Jiangsu Nuclear Power Corporation",
+                    "model": "VVER V-428M",
+                    "thermal_capacity": 3000.0,
+                    "design_net_capacity": 990.0
+                },
+                "created_date": "2016-03-07T15:26:40Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "TIANWAN-4"
+        }, {
+            "sort": [-9223372036854775808],
+            "_type": "reactor20160307152548",
+            "_source": {
+                "id": "YANGJIANG-6",
+                "index": {
+                    "construction_start_year": 2013,
+                    "sort_name": "yangjiang 6"
+                },
+                "last_updated": "2016-03-07T15:26:45Z",
+                "reactor": {
+                    "status": "Under Construction",
+                    "reference_unit_power_capacity_net": 1000.0,
+                    "name": "Yangjiang 6",
+                    "links": [{
+                        "url": "http://www.world-nuclear-news.org/taghub.aspx?tagid=China",
+                        "text": "WNN articles on China",
+                        "type": "wnn"
+                    }, {
+                        "url": "http://world-nuclear.org/info/Country-Profiles/Countries-A-F/China--Nuclear-Power/",
+                        "text": "Nuclear Power in China",
+                        "type": "wna"
+                    }],
+                    "process": "PWR",
+                    "gross_capacity": 1087.0,
+                    "construction_start": "2013-12-23",
+                    "owner": [{
+                        "name": "China Guangdong Nuclear Power Group"
+                    }],
+                    "location": {
+                        "lat": 21.699,
+                        "lon": 112.259
+                    },
+                    "country": "China",
+                    "operator": "Yangjiang Nuclear Power Company",
+                    "model": "ACPR-1000",
+                    "thermal_capacity": 2905.0,
+                    "design_net_capacity": 1000.0
+                },
+                "created_date": "2016-03-07T15:26:45Z"
+            },
+            "_score": null,
+            "_index": "reactordb",
+            "_id": "YANGJIANG-6"
+        }],
+        "total": 663,
+        "max_score": null
+    },
+    "_shards": {
+        "successful": 5,
+        "failed": 0,
+        "total": 5
+    },
+    "took": 1,
+    "timed_out": false
+}
