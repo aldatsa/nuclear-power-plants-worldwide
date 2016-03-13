@@ -35,11 +35,11 @@
 
                 MapQuestOpen_OSM.addTo(map);
 
-                $.get("data/Operating nuclear reactors - ALL OPERATING.csv", function(csv_contents) {
+                $.get("data/reactors.csv", function(csv_contents) {
                     var plants = $.csv.toArrays(csv_contents);
                     console.log(plants);
-                    for (var i = 1; i < plants.length; i++) {
-                        var latLng = plants[i][1].split(",");
+                    for (var i = 0; i < plants.length; i++) {
+                        var latLng = [plants[i][17], plants[i][18]];
             			var marker = new L.marker(latLng, {
                             icon: icon
                         }).bindPopup("<div>Facility: " + plants[i][0] + "</div>" +

@@ -62,7 +62,7 @@ fs.writeFile(csv_file_path, "", function() {
                         }
 
                         if (element2.name) {
-                            owners_name += element2.name.replace("\r\n", " ").replace("\r", " ").replace(",", " -");
+                            owners_name += element2.name.replace("\r\n", " ").replace("\r", " ").replace(",", " -").replace(/"/g, "'");
                             if (index2 < array2.length - 1) {
                                 owners_name += " - ";
                             }
@@ -82,7 +82,7 @@ fs.writeFile(csv_file_path, "", function() {
                         csv_file_contents += ",";
                     }
                     csv_file_contents += element._source.reactor.country + ",";
-                    csv_file_contents += element._source.reactor.operator.replace("\r\n", " ").replace("\r", " ").replace(",", " -") + ",";
+                    csv_file_contents += element._source.reactor.operator.replace("\r\n", " ").replace("\r", " ").replace(",", " -").replace(/"/g, "'") + ",";
 
                     if (element._source.reactor.commercial_operation) {
                         csv_file_contents += element._source.reactor.commercial_operation + ",";
@@ -95,7 +95,7 @@ fs.writeFile(csv_file_path, "", function() {
                     } else {
                         csv_file_contents += ",";
                     }
-                    csv_file_contents += element._source.reactor.operator.replace("\r\n", " ").replace("\r", " ").replace(",", " -") + ",";
+                    csv_file_contents += element._source.reactor.operator.replace("\r\n", " ").replace("\r", " ").replace(",", " -").replace(/"/g, "'") + ",";
                     csv_file_contents += element._source.reactor.thermal_capacity + ",";
 
                     if (element._source.reactor.additional_info) {
