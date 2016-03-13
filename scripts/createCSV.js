@@ -82,7 +82,7 @@ fs.writeFile(csv_file_path, "", function() {
                         csv_file_contents += ",";
                     }
                     csv_file_contents += element._source.reactor.country + ",";
-                    csv_file_contents += element._source.reactor.operator.replace("\r\n", " ").replace("\r", " ").replace(",", " -").replace(/"/g, "'") + ",";
+                    csv_file_contents += element._source.reactor.operator.replace("\r\n", " ").replace("\r", " ").replace(/,/g, " -").replace(/"/g, "'") + ",";
 
                     if (element._source.reactor.commercial_operation) {
                         csv_file_contents += element._source.reactor.commercial_operation + ",";
@@ -91,15 +91,15 @@ fs.writeFile(csv_file_path, "", function() {
                     }
 
                     if (element._source.reactor.model) {
-                        csv_file_contents += element._source.reactor.model + ",";
+                        csv_file_contents += element._source.reactor.model.replace("\r\n", " ").replace("\r", " ").replace(/,/g, " -").replace(/"/g, "'") + ",";
                     } else {
                         csv_file_contents += ",";
                     }
-                    csv_file_contents += element._source.reactor.operator.replace("\r\n", " ").replace("\r", " ").replace(",", " -").replace(/"/g, "'") + ",";
+                    csv_file_contents += element._source.reactor.operator.replace("\r\n", " ").replace("\r", " ").replace(/,/g, " -").replace(/"/g, "'") + ",";
                     csv_file_contents += element._source.reactor.thermal_capacity + ",";
 
                     if (element._source.reactor.additional_info) {
-                        csv_file_contents += element._source.reactor.additional_info + ",";
+                        csv_file_contents += element._source.reactor.additional_info.replace("\r\n", " ").replace("\r", " ").replace(/,/g, " -").replace(/"/g, "'") + ",";
                     } else {
                         csv_file_contents += ",";
                     }
